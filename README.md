@@ -1,2 +1,2 @@
-# demo
-its just for demo
+# extension demo
+its just for chrome extension demo
